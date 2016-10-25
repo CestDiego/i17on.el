@@ -1,0 +1,15 @@
+@list-ad {{
+  foo:Hello this is foo
+  |-bar:
+  And this is bar.
+  |-!bizz:
+  Email is lolz@gmail.com Definitely {!en: not |- fr: { pas: asdfsfd
+    |- asdfds:
+    asdfas fsadf
+    }
+  }
+  bizz. Definitely not bizz.
+  |-This would be default: but there's a colon in it.
+  |-
+  default text yay.
+}}
